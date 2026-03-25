@@ -6,6 +6,9 @@
 /CodeForce/.cph/*
 /CodeForce/*.bin
 
-*.dSYM
-*.dSYM/*
+#ProgrammingTH
+/ProgrammingTH/*.dSYM
+/ProgrammingTH/*.dSYM/*
+/ProgrammingTH/.vscode
+/ProgrammingTH/.vscode/*
 .DS_Store 
