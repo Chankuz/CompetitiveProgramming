@@ -5,3 +5,7 @@
 /CodeForce/.vscode/*
 /CodeForce/.cph/*
 /CodeForce/*.bin
+
+*.dSYM
+*.dSYM/*
+.DS_Store 
